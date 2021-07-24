@@ -13,3 +13,4 @@ preprocessing of data is done in 4 files named 'preprocessing N'(N=number).
 ![recommendation](https://user-images.githubusercontent.com/67919888/126861393-31ba0887-9f66-4a32-901c-ea1541174e67.PNG)
 ![ss of home page](https://user-images.githubusercontent.com/67919888/126861402-88b1619a-cf08-418d-a151-faea29172568.PNG)
 
+## this project was made with the help of kishan lal & krish naik
